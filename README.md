@@ -1,4 +1,4 @@
-# Udemy Analysis Project
+# Udemy Analysis 
 
 This repository contains a Jupyter Notebook that analyzes Udemy course data. The goal of this analysis is to gain insights into various aspects of Udemy courses, such as pricing, popularity, and content distribution.
 
